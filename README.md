@@ -4,13 +4,7 @@ Projeto desafio do processo seletivo da empresa Builders
 
 <div style="margin: 50px 0px">
     <center>
-    <img src="screenshots/screenshot-android.png" alt="Aparência do aplicativo" />
-    </center>
-</div>
-
-<div style="margin: 50px 0px">
-    <center>
-    <img src="screenshots/screenshot-ios.png" alt="Aparência do aplicativo" />
+    <img src="screenshots/screenshot.png" alt="Aparência do aplicativo" />
     </center>
 </div>
 
