@@ -25,7 +25,7 @@ Projeto desafio do processo seletivo da empresa Builders
 
 ## Instalação
 
-- Clone este repositório: `git clone https://github.com/rafabarbosa/weather-app.git`
+- Clone este repositório: `git clone https://github.com/bwti/challenge-weather-app.git`
 - Entre na pasta através do comando: `cd challenge-weather-app`
 - Instalar todas as dependências do projeto: `yarn install`
 
